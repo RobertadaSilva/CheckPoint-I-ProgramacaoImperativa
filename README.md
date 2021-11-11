@@ -1,4 +1,4 @@
-# CheckPoint-I-ProgramacaoImperativa
+# Menu de Mricroondas
 
 Projeto elaborado à pedido da máteria de Programação Imperativa, do curso Certified Tech Developer.
 Montei um menu de microondas, com linguagem em JavaScript.
